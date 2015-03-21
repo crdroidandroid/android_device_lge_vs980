@@ -32,7 +32,6 @@ PRODUCT_PACKAGES += \
 
 # NFC configs
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/nfc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
     $(LOCAL_PATH)/nfc/libnfc-brcm-20791b05.conf:system/etc/libnfc-brcm-20791b05.conf
 
 # GPS
