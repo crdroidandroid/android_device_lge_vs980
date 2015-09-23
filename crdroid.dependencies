@@ -6,10 +6,10 @@
     "revision": "5.1.1"
   },
   {
-    "remote": "CyanogenMod",
-    "repository": "android_kernel_lge_msm8974",
+    "remote": "crd",
+    "repository": "android_kernel_lge_g2",
     "target_path": "kernel/lge/msm8974",
-    "revision": "cm-12.1"
+    "revision": "5.1.1"
   },
   {
     "remote": "CyanogenMod",
